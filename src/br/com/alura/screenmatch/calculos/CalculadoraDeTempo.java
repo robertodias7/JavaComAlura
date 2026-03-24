@@ -9,14 +9,6 @@ public class CalculadoraDeTempo {
         return this.tempoTotal;
     }
 
-//    public void inclui(Filme f){
-//        this.tempoTotal += f.getDuracaoEmMinutos();
-//    }
-//
-//    public void inclui(Series s){
-//        this.tempoTotal += s.getDuracaoEmMinutos();
-//    }
-
     public void inclui(Titulo titulo){
         this.tempoTotal += titulo.getDuracaoEmMinutos();
     }
