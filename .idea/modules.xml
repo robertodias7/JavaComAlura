@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaComAlura.iml" filepath="$PROJECT_DIR$/JavaComAlura.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaDeDados.iml" filepath="$PROJECT_DIR$/estruturaDeDados.iml" />
     </modules>
   </component>
 </project>
