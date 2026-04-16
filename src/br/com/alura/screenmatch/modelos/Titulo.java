@@ -69,7 +69,7 @@ public class Titulo implements Comparable<Titulo> {
         return somaDasAvaliacoes / totalDeAvaliacoes;
     }
 
-
+    //Ordena os títulos dos filmes e séries em ordem afabética com o CompareTo
     @Override
     public int compareTo(Titulo outroTitulo) {
         return this.getNome().compareTo(outroTitulo.getNome());
